@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['393516093315'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.ownername = "𝓡𝔂𝓾𝓶𝓪 𝓑𝓸𝓽" //ur owner name
+global.ytname = "YT: ryuma" //ur yt chanel name
+global.socialm = "GitHub: riuma" //ur github or insta name
+global.location = "Europe, Italy, Milan" //ur location
 
 //bot bomdy 
-global.ownernomer = "393516093315" //ur number
+global.ownernomer = "18722444808" //ur number
 global.premium = ['393516093315'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
+global.botname = '⚜️𝓡𝔂𝓾𝓶𝓪 𝓑𝓸𝓽⚜️' //ur bot name
 global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "AHMED ⚜️" //ur sticker watermark packname
+global.author = "R̶y̷u̶m̸a̶ ̴B̴o̶t̸⚜️" //ur sticker watermark author
+global.wm = "R̶y̷u̶m̸a̶ ̴B̴o̶t̸.⚜️" //ur watermark
 
 // Other
 global.sessionName = 'session'
