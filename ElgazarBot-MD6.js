@@ -9218,7 +9218,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'المطور👤'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
+image: {url: 'https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
