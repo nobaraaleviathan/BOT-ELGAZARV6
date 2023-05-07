@@ -24,14 +24,14 @@ global.location = "Europe, Italy, Milan" //ur location
 //bot bomdy 
 global.ownernomer = "213662583690" //ur number
 global.premium = ['393516093315'] //ur premium number
-global.botname = '⚜️𝓡𝔂𝓾𝓶𝓪 𝓑𝓸𝓽⚜️' //ur bot name
+global.botname = 'ميرسي' //ur bot name
 global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "AHMED ⚜️" //ur sticker watermark packname
-global.author = "R̶y̷u̶m̸a̶ ̴B̴o̶t̸⚜️" //ur sticker watermark author
-global.wm = "R̶y̷u̶m̸a̶ ̴B̴o̶t̸.⚜️" //ur watermark
+global.packname = "ميرسي" //ur sticker watermark packname
+global.author = "ميرسي" //ur sticker watermark author
+global.wm = "ميرسي" //ur watermark
 
 // Other
 global.sessionName = 'session'
