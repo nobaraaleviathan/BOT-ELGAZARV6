@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['393516093315'] //ur owner number
-global.ownername = "𝓡𝔂𝓾𝓶𝓪 𝓑𝓸𝓽" //ur owner name
+global.ownername = "「𝙻𝙰𝙳𝚈  𝙲𝙷𝙰𝚁𝙻𝙴𝚉 ♤」" //ur owner name
 global.ytname = "YT: ryuma" //ur yt chanel name
 global.socialm = "GitHub: riuma" //ur github or insta name
 global.location = "Europe, Italy, Milan" //ur location
 
 //bot bomdy 
-global.ownernomer = "213662583690" //ur number
-global.premium = ['393516093315'] //ur premium number
-global.botname = 'ميرسي' //ur bot name
+global.ownernomer = "17253349341" //ur number
+global.premium = ['971506999702'] //ur premium number
+global.botname = '「𝙻𝙰𝙳𝚈  𝙲𝙷𝙰𝚁𝙻𝙴𝚉 ♤」' //ur bot name
 global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "ميرسي" //ur sticker watermark packname
-global.author = "ميرسي" //ur sticker watermark author
-global.wm = "ميرسي" //ur watermark
+global.packname = "「𝙻𝙰𝙳𝚈  𝙲𝙷𝙰𝚁𝙻𝙴𝚉 ♤」" //ur sticker watermark packname
+global.author = "「𝙻𝙰𝙳𝚈  𝙲𝙷𝙰𝚁𝙻𝙴𝚉 ♤」" //ur sticker watermark author
+global.wm = "「𝙻𝙰𝙳𝚈  𝙲𝙷𝙰𝚁𝙻𝙴𝚉 ♤」" //ur watermark
 
 // Other
 global.sessionName = 'session'
