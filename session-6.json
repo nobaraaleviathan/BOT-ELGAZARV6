@@ -1,5 +1,5 @@
 {
-  "creds": {
+
     "noiseKey": {
       "private": {
         "type": "Buffer",
@@ -24,8 +24,8 @@
       "keyPair": {
         "private": {
           "type": "Buffer",
-          "data": "+Hy3jErBCzN/Br0r9nnxaCNW+V3rF71ivi1uxg6Zuk8="
-        },
+  Br0r9nnxaCNW+V3rF71ivi1uxg6Zuk8="
+
         "public": {
           "type": "Buffer",
           "data": "zkC5l2O1jtI/wO58rUq/ZKrNeDkuZ8l0US1g5Cci6FM="
